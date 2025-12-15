@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
