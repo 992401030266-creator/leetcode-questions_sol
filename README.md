@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
