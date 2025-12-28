@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0217-contains-duplicate) |
+| [1929-concatenation-of-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
