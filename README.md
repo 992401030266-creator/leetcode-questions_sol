@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/1929-concatenation-of-array) |
 | [0001-two-sum](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0347-top-k-frequent-elements) |
+| [0238-product-of-array-except-self](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0238-product-of-array-except-self) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
