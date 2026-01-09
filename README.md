@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0347-top-k-frequent-elements) |
 | [0238-product-of-array-except-self](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0238-product-of-array-except-self) |
+| [0128-longest-consecutive-sequence](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0128-longest-consecutive-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0242-valid-anagram) |
 | [0001-two-sum](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0347-top-k-frequent-elements) |
+| [0128-longest-consecutive-sequence](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
