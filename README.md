@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0876-middle-of-the-linked-list) |
+| [0125-valid-palindrome](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
