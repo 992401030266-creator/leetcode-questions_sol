@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0238-product-of-array-except-self) |
 | [0128-longest-consecutive-sequence](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0049-group-anagrams](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0049-group-anagrams) |
+| [0015-3sum](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0015-3sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0876-middle-of-the-linked-list) |
 | [0125-valid-palindrome](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0125-valid-palindrome) |
+| [0015-3sum](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0347-top-k-frequent-elements) |
 | [0049-group-anagrams](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0049-group-anagrams) |
+| [0015-3sum](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
