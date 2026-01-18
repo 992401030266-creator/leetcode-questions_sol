@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0125-valid-palindrome) |
 | [0020-valid-parentheses](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0020-valid-parentheses) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
