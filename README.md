@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0238-product-of-array-except-self) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Union Find
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String Matching
 |  |
 | ------- |
