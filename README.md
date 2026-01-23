@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [0219-contains-duplicate-ii](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0219-contains-duplicate-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0049-group-anagrams](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0049-group-anagrams) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [0219-contains-duplicate-ii](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0219-contains-duplicate-ii) |
 ## String Matching
 |  |
 | ------- |
