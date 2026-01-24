@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [0219-contains-duplicate-ii](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0219-contains-duplicate-ii) |
+| [0485-max-consecutive-ones](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
