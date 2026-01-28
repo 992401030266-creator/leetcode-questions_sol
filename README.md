@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0021-merge-two-sorted-lists) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0143-reorder-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0155-min-stack) |
+| [0143-reorder-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
