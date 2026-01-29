@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [0219-contains-duplicate-ii](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0485-max-consecutive-ones) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
