@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0143-reorder-list) |
+| [0326-power-of-three](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
