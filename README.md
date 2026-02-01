@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0485-max-consecutive-ones) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
