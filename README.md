@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0485-max-consecutive-ones) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0226-invert-binary-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/992401030266-creator/leetcode-questions_sol/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
